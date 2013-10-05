@@ -13,7 +13,7 @@ public class ExampleService implements Service {
 	 * Reads next record from input
 	 */
 	public String getMessage() {
-		return "Hello world! With Git 2";	
+		return "Hello world! With Git 22";	
 	}
 
 }
